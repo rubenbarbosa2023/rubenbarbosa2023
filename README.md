@@ -1,12 +1,12 @@
 ### Hi there 👋, Rúben Barbosa
 #### Developer and Tech Enthusiast
-![Developer and Tech Enthusiast](https://www.google.com/url?sa=i&url=https%3A%2F%2Fapexensino.com.br%2Fcurso-de-programador-java-em-blumenau%2Fbanner-java%2F&psig=AOvVaw3p3deYHr3nu7jrKZ92z8ad&ust=1690553921737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICm5Z6Kr4ADFQAAAAAdAAAAABAJ)
+![Developer and Tech Enthusiast](https://static.platzi.com/media/user_upload/Java-banner-002-e1572444968364-63c18ac3-1c98-4d95-92d5-24148243bfe9.jpg)
 
-I´m Rúben from Portugal, and I´m mainly interested in OOP Projects as well as arduino kind of stuff. I really like Java and I´m looking forward to work with it in my career.
+I'm from Portugal, and I'm mainly interested in OOP Projects as well as arduino kind of stuff. I really like Java and I´m looking forward to work with it in my career
 
 Skills: JAVA / C# / SQL / HTML / CSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rubenbarbosa2023)  
+
 
