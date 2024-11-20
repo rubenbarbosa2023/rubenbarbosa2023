@@ -1,8 +1,6 @@
-### Hi there 👋, Rúben Barbosa
-#### Developer and Tech Enthusiast
+### Hi there 👋, Rúben Barbosa here
+#### Developer, Engineering Student and Tech Enthusiast
 
-I'm from Portugal, and I'm mainly interested in OOP Projects as well as arduino kind of stuff. I really like Java and I´m looking forward to work with it in my career
+I'm from Portugal, and I have at the moment a strong base in test automation, OOP and managing DB's
 
-Skills: Python / C# / .NET / SQL 
-
-Grinding to learn : HTML, CSS and JS
+Trying to be a network engineer
