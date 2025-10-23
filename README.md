@@ -1,6 +1,26 @@
-### Hi there 👋, Rúben Barbosa here
-#### Developer, Engineering Student and Tech Enthusiast
+# 👋 Hi, I'm Rúben Barbosa!
+💻 Software Engineering Student | 🌐 Tech Enthusiast | ☕ MILC (Man I Love Coffee) 
 
-I'm from Portugal, and I have at the moment a strong base in OOP, test automation and managing DB's
+## 🚀 About Me
+- 🔭 I’m currently working on: SoLuX
+- 🌱 Learning: Philosophy and how to comunicate
+- 💬 Ask me about: 
 
-Working on my own...
+## 🧰 Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenbarbosa2023&show_icons=true&theme=radical)
+
+## 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=rubenbarbosa2023&theme=onedark)
+
+## 📈 Activity Graph
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rubenbarbosa2023&theme=github-compact)
+
+## ✨ God
+> “Trust in the Lord with all your heart... and He will make straight your paths” — Proverbs 3:5-6
