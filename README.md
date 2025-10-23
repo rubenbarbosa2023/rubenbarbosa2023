@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on: SoLuX
 - 🌱 Learning: Philosophy and how to comunicate
-- 💬 Ask me about: 
+- 💬 Ask me about: Boxing, Lego and Music
 
 ## 🧰 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -14,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenbarbosa2023&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenbarbosa2023&layout=compact&theme=radical)
 
 ## 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=rubenbarbosa2023&theme=onedark)
