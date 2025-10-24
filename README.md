@@ -16,11 +16,5 @@
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenbarbosa2023&layout=compact&theme=radical)
 
-## 🔥 Current Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubenbarbosa2023&theme=tokyonight&hide_border=true)
-
-## 📈 Activity Graph
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rubenbarbosa2023&theme=github-compact)
-
 ## ✨ God
 > “Trust in the Lord with all your heart... and He will make straight your paths” — Proverbs 3:5-6
