@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rúben Barbosa!
-💻 Software Engineering Student | 🌐 Tech Enthusiast | ☕ MILC (Man I Love Coffee) 
+💻 Software Engineering Student | ☕ MILC (Man I Love Coffee) 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: SoLuX
+- 🔭 I’m currently working on: A solution for a specific need in my country
 - 🌱 Learning: Philosophy and how to comunicate
 - 💬 Ask me about: Boxing, Lego and Music
 
