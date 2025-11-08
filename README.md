@@ -1,4 +1,4 @@
-# Hey, I'm Rúben Barbosa 🇵🇹
+# Hey, I'm Rúben Barbosa
 Software Engineering Student ｜ MILC (Man I Love Coffee)
 
 ---
