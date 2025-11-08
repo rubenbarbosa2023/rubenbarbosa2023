@@ -13,10 +13,5 @@ Software Engineering Student | MILC (Man I Love Coffee)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-| GitHub Stats | Streak Stats |
-| ------------- | ------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenbarbosa2023&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubenbarbosa2023&show_icons=true&theme=radical&count_private=true) |
-
-
 ## God
 > “Trust in the Lord with all your heart... and He will make straight your paths” — Proverbs 3:5-6
