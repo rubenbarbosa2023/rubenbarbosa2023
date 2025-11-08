@@ -15,7 +15,7 @@ Software Engineering Student | MILC (Man I Love Coffee)
 
 | GitHub Stats | Streak Stats |
 | ------------- | ------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenbarbosa2023&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=rubenbarbosa2023&theme=radical&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenbarbosa2023&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubenbarbosa2023&show_icons=true&theme=radical&count_private=true) |
 
 
 ## God
