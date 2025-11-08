@@ -1,6 +1,4 @@
-![Portugal Banner]([https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag-map_of_Portugal.svg](https://en.wikipedia.org/wiki/Flag_of_Portugal#/media/File:Flag_of_Portugal_(official).svg))
-
-# Hey, I'm Rúben Barbosa
+# Hey, I'm Rúben Barbosa 🇵🇹
 Software Engineering Student ｜ MILC (Man I Love Coffee)
 
 ---
